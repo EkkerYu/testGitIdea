@@ -10,6 +10,6 @@ public class GitDemo {
     public void add(){
 
         System.out.println("Hello Git");
-
+        System.out.println("被远程仓库修改了");
     }
 }
